@@ -7,3 +7,5 @@ ElasticSearch是一个开源分布式搜索引擎，它的特点有：分布式�
 LogStash是一个完全开源的工具，它可以对日志进行收集、过滤，并将其存储供以后使用。  
 3、Kibana  
 kibana也是一个开源和免费的工具，它可以为Logstash和ElasticSearch提供日志分析友好的Web界面，可以帮助汇总、分析和搜索重要数据日志。
+4、syslog
+syslog日志实时采集
